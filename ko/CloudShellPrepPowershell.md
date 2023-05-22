@@ -4,8 +4,8 @@
 
     ||| 
     |--|--| 
-    |사용자 이름|+++@lab.CloudPortalCredential(User1).Username+++| 
-    |암호|+++@lab.CloudPortalCredential(User1).Password+++| 
+    |사용자 이름|+++@lab.CloudPortalCredential(LabUser).Username+++| 
+    |암호|+++@lab.CloudPortalCredential(LabUser).Password+++| 
 
 1. Azure Portal 맨 위에 있는 도구 모음에서 **Cloud Shell** 아이콘을 선택합니다. 
 

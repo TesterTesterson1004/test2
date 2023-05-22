@@ -3,8 +3,8 @@
 
     |||
     |--|--|
-    |用户名|+++@lab.CloudPortalCredential(User1).Username+++|
-    |密码|+++@lab.CloudPortalCredential(User1).Password+++|
+    |用户名|+++@lab.CloudPortalCredential(LabUser).Username+++|
+    |密码|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
 1. 在 Azure 门户顶部的工具栏中，选择“Cloud Shell”图标。
 

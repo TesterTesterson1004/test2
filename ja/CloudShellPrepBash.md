@@ -3,8 +3,8 @@
 
     |||
     |--|--|
-    |ユーザー名|+++@lab.CloudPortalCredential(User1).Username+++|
-    |パスワード|+++@lab.CloudPortalCredential(User1).Password+++|
+    |ユーザー名|+++@lab.CloudPortalCredential(LabUser).Username+++|
+    |パスワード|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
 1. Azure portal の上部にあるツール バーで、[**Cloud Shell**] アイコンを選択します。
 
