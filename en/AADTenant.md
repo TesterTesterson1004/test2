@@ -1,3 +1,4 @@
+
 1. Login to the Azure Portal +++https://portal.azure.com+++ using the below credentials:
 
     |||
@@ -31,3 +32,5 @@
 1. In the **Switch tenant** dialog, next to the **First AAD** directory select **Switch**.
 
     ![SwitchTen](images/SwitchTen.png)
+
+1. Click **Next** to proceed to the lab.
