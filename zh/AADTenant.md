@@ -7,7 +7,7 @@
     |用户名|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |密码|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. 搜索并选择 +++“Azure Active Directory”+++
+1. 搜索并选择 +++Azure Active Directory+++
 
 1. 从 Azure Active Directory 概述边栏选项卡中，选择“+ 创建租户”。
 
