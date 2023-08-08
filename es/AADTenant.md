@@ -21,7 +21,7 @@
     |Nombre de dominio inicial|+++firstaad@lab.LabInstance.Id+++|
     |País o región|Estados Unidos|
 
-    > [ALERT!] Espere a que la creación del directorio se complete. Esto podría tomar unos minutos.
+    > [!ALERT] Espere a que la creación del directorio se complete. Esto podría tomar unos minutos.
     >
     > Si encuentra una solicitud de captcha durante la creación, tenga en cuenta que aunque el formulario de captcha pueda fallar, aún podría crearse el inquilino. Por favor, verifique la sección de gestión de inquilinos antes de intentar nuevamente el proceso de creación de inquilinos. Hemos escalado el problema con Microsoft para obtener ayuda.
 
