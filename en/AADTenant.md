@@ -26,8 +26,8 @@
 
 1. In the toolbar at the top of the Azure portal, select the **Switch Directory** icon.
 
-    !IMAGE[SwitchDir.png](SwitchDir.png)
+    ![SwitchDir](images/SwitchDir.png)
 
 1. In the **Switch tenant** dialog, next to the **First AAD** directory select **Switch**.
 
-    !IMAGE[SwitchTen.png](SwitchTen.png)
+    ![SwitchTen](images/SwitchTen.png)
